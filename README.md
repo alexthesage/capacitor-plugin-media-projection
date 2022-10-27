@@ -1,0 +1,1 @@
+# capacitor-plugin-media-projection
